@@ -136,6 +136,7 @@ public class ExpenseTrackerProject {
                 default:
                    
                     System.out.println("Invalid choice. Please try again.");
+                    System.out.println("hello world");
             }
         }
     }
